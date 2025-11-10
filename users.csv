@@ -1,0 +1,1001 @@
+user_id,age,gender,region,signup_date,referral_source
+1001,57,F,East,2024-04-02,LinkedIn
+1002,34,M,North,2024-03-20,Google Ads
+1003,32,F,Midwest,2024-04-11,LinkedIn
+1004,59,M,Midwest,2024-06-04,Google Ads
+1005,32,F,South,2024-06-24,Referral
+1006,32,F,South,2024-06-14,Facebook
+1007,56,F,North,2024-06-07,Facebook
+1008,30,F,Midwest,2024-01-14,Referral
+1009,34,M,South,2024-04-26,LinkedIn
+1010,49,F,East,2024-03-13,LinkedIn
+1011,26,F,East,2024-03-31,Instagram
+1012,57,M,Midwest,2024-03-30,Google Ads
+1013,37,M,South,2024-01-29,LinkedIn
+1014,43,M,North,2024-06-27,Referral
+1015,44,M,North,2024-02-18,LinkedIn
+1016,38,M,North,2024-06-19,Facebook
+1017,35,M,East,2024-03-12,Google Ads
+1018,30,F,South,2024-05-12,Instagram
+1019,33,M,South,2024-02-11,Google Ads
+1020,26,F,East,2024-05-14,Facebook
+1021,29,M,North,2024-02-11,Facebook
+1022,55,F,North,2024-06-12,Facebook
+1023,36,F,Midwest,2024-04-14,Facebook
+1024,24,F,West,2024-01-27,Referral
+1025,52,M,South,2024-02-27,Instagram
+1026,35,M,South,2024-02-15,Facebook
+1027,33,M,South,2024-03-06,Facebook
+1028,56,M,West,2024-01-25,LinkedIn
+1029,21,F,Midwest,2024-03-13,Instagram
+1030,42,M,West,2024-04-26,Google Ads
+1031,49,F,North,2024-06-03,Instagram
+1032,57,F,North,2024-05-08,Instagram
+1033,30,M,South,2024-03-27,Instagram
+1034,34,M,East,2024-03-14,Facebook
+1035,54,M,South,2024-06-18,Facebook
+1036,23,F,East,2024-06-28,Referral
+1037,36,M,West,2024-06-01,Google Ads
+1038,30,F,North,2024-05-04,LinkedIn
+1039,43,M,East,2024-03-07,Instagram
+1040,31,F,West,2024-01-06,Google Ads
+1041,48,M,North,2024-05-04,Google Ads
+1042,21,M,East,2024-02-27,Referral
+1043,56,F,South,2024-03-10,LinkedIn
+1044,25,M,South,2024-02-22,Instagram
+1045,42,M,South,2024-03-06,LinkedIn
+1046,30,M,West,2024-02-27,Referral
+1047,49,M,South,2024-03-22,Facebook
+1048,55,M,Midwest,2024-03-27,Google Ads
+1049,55,M,North,2024-01-02,Instagram
+1050,45,M,West,2024-05-29,Facebook
+1051,47,F,South,2024-02-06,Referral
+1052,20,F,North,2024-05-27,LinkedIn
+1053,45,M,East,2024-04-12,Google Ads
+1054,20,M,South,2024-01-24,Instagram
+1055,51,M,North,2024-04-21,Facebook
+1056,33,F,Midwest,2024-03-05,Facebook
+1057,39,F,East,2024-05-08,Google Ads
+1058,49,M,Midwest,2024-04-26,LinkedIn
+1059,55,F,North,2024-04-25,Referral
+1060,25,M,Midwest,2024-04-14,LinkedIn
+1061,25,M,North,2024-01-03,LinkedIn
+1062,23,M,North,2024-02-15,LinkedIn
+1063,31,M,Midwest,2024-02-24,Google Ads
+1064,49,F,North,2024-03-15,Google Ads
+1065,52,F,South,2024-02-14,Referral
+1066,27,M,North,2024-06-02,LinkedIn
+1067,20,F,West,2024-03-17,Google Ads
+1068,29,F,North,2024-01-24,Referral
+1069,48,M,West,2024-02-04,Referral
+1070,46,F,North,2024-01-24,LinkedIn
+1071,22,M,North,2024-01-28,Instagram
+1072,42,M,Midwest,2024-01-16,LinkedIn
+1073,58,M,South,2024-02-28,Instagram
+1074,48,M,South,2024-05-23,Referral
+1075,38,F,East,2024-01-15,Google Ads
+1076,37,M,Midwest,2024-01-11,Facebook
+1077,56,F,Midwest,2024-03-19,Referral
+1078,39,M,South,2024-04-24,Google Ads
+1079,21,M,Midwest,2024-03-08,Referral
+1080,30,F,South,2024-02-12,LinkedIn
+1081,59,M,Midwest,2024-03-09,Instagram
+1082,37,F,North,2024-05-20,Referral
+1083,30,F,South,2024-05-17,Google Ads
+1084,34,M,South,2024-03-15,LinkedIn
+1085,53,M,West,2024-04-12,Facebook
+1086,50,M,Midwest,2024-02-10,LinkedIn
+1087,18,M,Midwest,2024-06-26,Instagram
+1088,32,M,South,2024-02-28,LinkedIn
+1089,30,M,North,2024-02-08,Facebook
+1090,34,F,North,2024-01-03,Google Ads
+1091,41,F,North,2024-01-07,Referral
+1092,25,M,Midwest,2024-02-18,Instagram
+1093,44,F,West,2024-01-26,Facebook
+1094,40,F,South,2024-06-09,Instagram
+1095,25,M,East,2024-04-10,LinkedIn
+1096,25,M,West,2024-06-24,Instagram
+1097,43,F,East,2024-03-19,Facebook
+1098,30,M,West,2024-01-02,Referral
+1099,56,F,North,2024-05-06,Referral
+1100,54,M,Midwest,2024-06-08,Instagram
+1101,45,F,East,2024-05-11,Google Ads
+1102,42,F,West,2024-01-20,Instagram
+1103,33,F,Midwest,2024-04-26,LinkedIn
+1104,19,F,East,2024-06-12,Referral
+1105,35,M,South,2024-02-01,Referral
+1106,34,M,West,2024-01-28,Referral
+1107,47,F,South,2024-03-17,Google Ads
+1108,56,F,North,2024-01-01,Google Ads
+1109,30,M,South,2024-02-25,Facebook
+1110,49,M,South,2024-02-04,Instagram
+1111,46,F,West,2024-04-21,Instagram
+1112,47,F,North,2024-01-30,LinkedIn
+1113,35,F,South,2024-02-23,Referral
+1114,30,F,Midwest,2024-02-05,Google Ads
+1115,38,F,East,2024-03-20,LinkedIn
+1116,47,M,South,2024-02-27,LinkedIn
+1117,38,F,North,2024-03-23,Google Ads
+1118,34,M,South,2024-03-05,Instagram
+1119,57,M,East,2024-03-09,Referral
+1120,36,M,North,2024-05-07,Instagram
+1121,32,F,West,2024-02-20,LinkedIn
+1122,26,M,North,2024-01-22,Referral
+1123,27,M,West,2024-04-16,Facebook
+1124,48,M,North,2024-04-18,LinkedIn
+1125,40,M,East,2024-04-25,Instagram
+1126,47,F,East,2024-04-10,Instagram
+1127,50,F,North,2024-04-09,Instagram
+1128,26,M,South,2024-06-12,Google Ads
+1129,18,M,East,2024-03-08,LinkedIn
+1130,52,F,West,2024-02-05,Referral
+1131,28,F,West,2024-06-28,Instagram
+1132,51,F,Midwest,2024-06-26,Instagram
+1133,33,M,West,2024-06-17,Google Ads
+1134,26,F,Midwest,2024-05-25,Referral
+1135,49,M,North,2024-01-22,LinkedIn
+1136,32,M,North,2024-03-06,Facebook
+1137,29,F,North,2024-01-21,Google Ads
+1138,50,M,South,2024-04-09,LinkedIn
+1139,31,F,South,2024-05-07,Facebook
+1140,25,M,Midwest,2024-02-13,Instagram
+1141,25,F,West,2024-04-12,Instagram
+1142,44,M,West,2024-02-16,Referral
+1143,29,M,North,2024-02-08,Facebook
+1144,18,F,East,2024-01-29,Instagram
+1145,57,F,South,2024-02-23,Instagram
+1146,59,F,South,2024-03-30,Referral
+1147,28,F,North,2024-03-25,LinkedIn
+1148,56,M,South,2024-01-17,Instagram
+1149,48,F,North,2024-03-20,Google Ads
+1150,34,F,Midwest,2024-06-07,Google Ads
+1151,50,M,West,2024-03-13,LinkedIn
+1152,49,F,East,2024-02-18,Facebook
+1153,46,F,West,2024-04-10,Referral
+1154,38,M,West,2024-01-02,Google Ads
+1155,38,F,Midwest,2024-06-24,Google Ads
+1156,57,F,South,2024-05-21,LinkedIn
+1157,40,F,East,2024-02-28,Facebook
+1158,23,F,South,2024-04-06,Facebook
+1159,39,F,West,2024-04-08,LinkedIn
+1160,55,F,North,2024-04-12,Google Ads
+1161,54,M,West,2024-06-27,Referral
+1162,25,F,South,2024-01-02,Google Ads
+1163,58,M,West,2024-02-10,Facebook
+1164,52,M,North,2024-05-02,Google Ads
+1165,28,M,Midwest,2024-03-22,Referral
+1166,41,M,South,2024-05-23,Instagram
+1167,38,F,West,2024-05-11,Google Ads
+1168,19,F,South,2024-05-19,LinkedIn
+1169,57,F,Midwest,2024-01-29,Instagram
+1170,36,M,West,2024-05-14,LinkedIn
+1171,56,F,West,2024-01-14,LinkedIn
+1172,45,F,South,2024-01-12,LinkedIn
+1173,34,F,South,2024-04-08,Google Ads
+1174,23,M,North,2024-05-12,Facebook
+1175,36,M,Midwest,2024-03-21,Instagram
+1176,55,F,North,2024-04-15,Referral
+1177,45,M,West,2024-02-01,Facebook
+1178,19,M,South,2024-03-14,Google Ads
+1179,55,F,West,2024-06-19,LinkedIn
+1180,54,M,West,2024-03-21,Referral
+1181,21,M,East,2024-03-09,Instagram
+1182,39,F,East,2024-02-14,Facebook
+1183,43,M,West,2024-04-15,Facebook
+1184,53,M,South,2024-05-16,Referral
+1185,30,M,West,2024-06-25,Google Ads
+1186,49,M,East,2024-06-09,Instagram
+1187,34,M,South,2024-04-09,Referral
+1188,58,M,West,2024-05-25,LinkedIn
+1189,53,M,Midwest,2024-01-09,Instagram
+1190,36,M,Midwest,2024-03-02,Facebook
+1191,52,F,West,2024-01-29,Referral
+1192,57,F,South,2024-05-04,Facebook
+1193,45,F,West,2024-04-23,Facebook
+1194,18,F,West,2024-06-01,Facebook
+1195,59,M,East,2024-05-22,Google Ads
+1196,35,F,Midwest,2024-05-13,Facebook
+1197,57,F,East,2024-04-29,LinkedIn
+1198,50,M,East,2024-06-18,LinkedIn
+1199,29,M,West,2024-06-05,Instagram
+1200,25,M,East,2024-03-19,Facebook
+1201,41,M,Midwest,2024-04-02,Facebook
+1202,33,M,East,2024-01-04,Referral
+1203,21,F,Midwest,2024-03-22,Google Ads
+1204,55,M,East,2024-06-25,Instagram
+1205,44,F,Midwest,2024-06-20,Facebook
+1206,26,F,East,2024-03-15,Referral
+1207,33,M,East,2024-01-14,Google Ads
+1208,29,F,South,2024-05-10,Instagram
+1209,48,F,Midwest,2024-04-23,Instagram
+1210,41,M,Midwest,2024-03-02,Facebook
+1211,31,F,Midwest,2024-04-15,Instagram
+1212,42,F,North,2024-03-04,Referral
+1213,51,F,East,2024-04-11,Instagram
+1214,20,M,Midwest,2024-06-21,LinkedIn
+1215,41,M,North,2024-04-15,Referral
+1216,59,M,South,2024-01-20,Google Ads
+1217,26,F,Midwest,2024-02-27,Google Ads
+1218,43,M,Midwest,2024-04-21,Facebook
+1219,37,F,North,2024-02-26,Facebook
+1220,57,M,East,2024-04-28,LinkedIn
+1221,27,F,South,2024-04-06,Google Ads
+1222,36,M,Midwest,2024-04-01,Google Ads
+1223,20,M,East,2024-02-21,Google Ads
+1224,41,F,South,2024-02-06,Google Ads
+1225,22,M,West,2024-01-08,Instagram
+1226,20,F,West,2024-02-13,Referral
+1227,44,M,South,2024-04-07,Referral
+1228,33,M,North,2024-05-12,LinkedIn
+1229,32,F,South,2024-04-27,Instagram
+1230,52,F,South,2024-03-09,Google Ads
+1231,29,F,North,2024-06-07,Google Ads
+1232,58,M,North,2024-02-14,Facebook
+1233,43,F,East,2024-05-16,Facebook
+1234,51,M,East,2024-02-01,LinkedIn
+1235,40,F,North,2024-02-02,Google Ads
+1236,48,F,West,2024-05-05,LinkedIn
+1237,37,F,West,2024-03-07,Instagram
+1238,29,F,South,2024-01-30,Referral
+1239,40,F,Midwest,2024-04-23,Google Ads
+1240,21,F,South,2024-01-29,Instagram
+1241,40,M,South,2024-05-10,Google Ads
+1242,18,F,Midwest,2024-01-30,Facebook
+1243,42,M,North,2024-05-16,LinkedIn
+1244,19,F,West,2024-06-02,Facebook
+1245,47,F,South,2024-05-09,Referral
+1246,20,F,Midwest,2024-03-02,Facebook
+1247,38,M,East,2024-01-03,Google Ads
+1248,42,M,South,2024-06-22,Facebook
+1249,37,F,West,2024-03-08,Google Ads
+1250,39,M,North,2024-01-25,Referral
+1251,38,F,South,2024-06-27,Facebook
+1252,50,F,South,2024-05-20,LinkedIn
+1253,55,M,Midwest,2024-02-13,LinkedIn
+1254,32,M,East,2024-06-11,LinkedIn
+1255,32,M,East,2024-02-24,Facebook
+1256,42,M,North,2024-05-16,Facebook
+1257,38,F,West,2024-05-09,Facebook
+1258,41,M,North,2024-02-10,Google Ads
+1259,22,M,South,2024-06-20,Referral
+1260,23,F,South,2024-03-04,LinkedIn
+1261,40,M,East,2024-01-31,Google Ads
+1262,21,M,West,2024-02-16,LinkedIn
+1263,44,M,Midwest,2024-05-09,Google Ads
+1264,35,M,West,2024-04-05,Facebook
+1265,38,F,South,2024-03-17,LinkedIn
+1266,45,F,Midwest,2024-04-19,Facebook
+1267,52,M,West,2024-03-09,LinkedIn
+1268,39,M,West,2024-02-27,Instagram
+1269,57,F,Midwest,2024-04-15,Google Ads
+1270,40,M,South,2024-02-13,Instagram
+1271,20,M,West,2024-03-14,Google Ads
+1272,57,M,Midwest,2024-02-25,Referral
+1273,27,M,South,2024-06-19,LinkedIn
+1274,42,M,Midwest,2024-05-06,Referral
+1275,25,M,Midwest,2024-06-10,Referral
+1276,28,M,West,2024-01-30,Google Ads
+1277,22,M,South,2024-03-11,Instagram
+1278,54,M,West,2024-04-27,Facebook
+1279,55,F,North,2024-02-24,Google Ads
+1280,46,F,North,2024-03-07,Facebook
+1281,22,F,South,2024-05-20,Referral
+1282,26,M,Midwest,2024-01-03,Facebook
+1283,19,M,West,2024-01-26,Instagram
+1284,18,F,West,2024-02-26,Google Ads
+1285,57,M,South,2024-05-05,Instagram
+1286,47,F,South,2024-05-31,Instagram
+1287,28,M,North,2024-02-22,Google Ads
+1288,45,F,East,2024-02-12,Instagram
+1289,29,F,South,2024-02-18,LinkedIn
+1290,56,F,East,2024-02-11,LinkedIn
+1291,43,M,South,2024-01-11,LinkedIn
+1292,30,F,Midwest,2024-04-12,Facebook
+1293,25,M,Midwest,2024-04-07,Instagram
+1294,45,M,North,2024-05-25,Google Ads
+1295,47,M,North,2024-03-25,Google Ads
+1296,26,M,East,2024-04-09,Facebook
+1297,56,M,South,2024-04-13,Google Ads
+1298,48,M,West,2024-06-28,LinkedIn
+1299,38,M,North,2024-02-15,Instagram
+1300,51,F,West,2024-02-13,Google Ads
+1301,48,F,West,2024-01-22,Google Ads
+1302,42,F,South,2024-04-23,Referral
+1303,29,M,East,2024-05-04,Referral
+1304,18,M,South,2024-05-03,Referral
+1305,39,M,North,2024-01-30,Instagram
+1306,57,M,West,2024-01-08,LinkedIn
+1307,54,F,South,2024-04-07,LinkedIn
+1308,18,M,South,2024-02-26,LinkedIn
+1309,18,F,South,2024-04-20,Instagram
+1310,59,M,North,2024-03-13,Instagram
+1311,59,F,East,2024-04-24,Referral
+1312,38,M,South,2024-01-20,Google Ads
+1313,32,F,North,2024-01-25,Facebook
+1314,34,M,West,2024-01-19,Facebook
+1315,39,F,Midwest,2024-01-05,Google Ads
+1316,55,M,North,2024-03-15,Referral
+1317,52,F,Midwest,2024-05-07,Google Ads
+1318,33,F,South,2024-03-12,Google Ads
+1319,25,M,South,2024-06-03,Facebook
+1320,34,F,North,2024-02-09,Referral
+1321,34,M,Midwest,2024-01-26,Instagram
+1322,43,M,South,2024-01-27,Facebook
+1323,30,M,West,2024-03-23,Instagram
+1324,34,F,East,2024-05-07,Referral
+1325,55,F,East,2024-06-26,Google Ads
+1326,34,M,South,2024-06-18,LinkedIn
+1327,31,M,Midwest,2024-06-05,LinkedIn
+1328,23,F,South,2024-06-15,Referral
+1329,52,F,Midwest,2024-06-17,LinkedIn
+1330,31,F,West,2024-02-02,Instagram
+1331,25,M,Midwest,2024-04-06,LinkedIn
+1332,32,M,South,2024-04-20,Referral
+1333,44,M,West,2024-01-16,Referral
+1334,30,M,North,2024-01-23,Instagram
+1335,48,M,East,2024-05-14,LinkedIn
+1336,52,F,South,2024-01-26,LinkedIn
+1337,23,M,South,2024-04-05,Google Ads
+1338,22,F,South,2024-01-12,Facebook
+1339,39,F,West,2024-03-12,Referral
+1340,40,M,North,2024-05-12,Google Ads
+1341,42,F,Midwest,2024-04-15,Referral
+1342,51,M,North,2024-04-26,Google Ads
+1343,43,F,West,2024-06-25,Facebook
+1344,22,M,South,2024-01-26,Google Ads
+1345,43,M,East,2024-05-12,Referral
+1346,37,F,South,2024-01-22,LinkedIn
+1347,23,M,Midwest,2024-01-13,Referral
+1348,23,F,East,2024-06-04,Instagram
+1349,35,M,South,2024-06-09,Instagram
+1350,21,M,East,2024-04-16,Instagram
+1351,34,M,North,2024-01-23,Instagram
+1352,31,F,West,2024-04-06,Facebook
+1353,31,F,South,2024-01-18,LinkedIn
+1354,30,M,Midwest,2024-04-26,LinkedIn
+1355,24,F,North,2024-01-30,Referral
+1356,32,M,South,2024-01-26,Google Ads
+1357,36,F,North,2024-05-23,Referral
+1358,52,F,Midwest,2024-02-08,Referral
+1359,34,M,South,2024-06-09,Referral
+1360,52,M,Midwest,2024-06-02,Referral
+1361,36,M,East,2024-06-24,LinkedIn
+1362,37,M,Midwest,2024-06-14,Google Ads
+1363,53,M,East,2024-05-09,Referral
+1364,52,F,South,2024-04-22,LinkedIn
+1365,49,F,East,2024-05-13,Referral
+1366,57,M,South,2024-02-15,Instagram
+1367,41,M,South,2024-02-19,Referral
+1368,34,M,West,2024-06-14,Referral
+1369,24,F,South,2024-04-15,Facebook
+1370,18,M,East,2024-05-25,Instagram
+1371,52,M,West,2024-06-03,Google Ads
+1372,49,F,West,2024-06-17,Referral
+1373,53,F,South,2024-03-12,Google Ads
+1374,30,F,Midwest,2024-03-14,Instagram
+1375,23,F,Midwest,2024-01-17,Referral
+1376,31,M,West,2024-06-05,Facebook
+1377,54,F,South,2024-03-10,LinkedIn
+1378,32,F,Midwest,2024-05-29,Facebook
+1379,21,M,South,2024-01-06,Facebook
+1380,57,M,South,2024-01-26,LinkedIn
+1381,33,M,West,2024-06-15,LinkedIn
+1382,45,F,West,2024-05-19,LinkedIn
+1383,33,M,North,2024-04-08,Referral
+1384,21,F,Midwest,2024-05-21,Google Ads
+1385,43,F,Midwest,2024-01-22,Google Ads
+1386,45,F,Midwest,2024-02-20,LinkedIn
+1387,49,M,East,2024-05-30,Facebook
+1388,19,F,South,2024-06-24,Instagram
+1389,48,M,West,2024-04-13,LinkedIn
+1390,20,M,Midwest,2024-06-26,Facebook
+1391,25,M,North,2024-03-29,Facebook
+1392,41,F,Midwest,2024-05-20,Referral
+1393,32,F,South,2024-05-17,Referral
+1394,48,F,South,2024-01-09,Google Ads
+1395,26,M,West,2024-03-19,Google Ads
+1396,56,F,East,2024-02-21,Instagram
+1397,19,F,West,2024-05-09,Instagram
+1398,25,F,Midwest,2024-06-01,Instagram
+1399,24,F,North,2024-01-13,Instagram
+1400,56,F,West,2024-02-20,Facebook
+1401,59,M,East,2024-02-03,Facebook
+1402,33,M,West,2024-02-04,Google Ads
+1403,52,M,South,2024-05-10,Referral
+1404,47,M,Midwest,2024-04-29,Referral
+1405,27,F,Midwest,2024-03-10,LinkedIn
+1406,55,M,Midwest,2024-06-24,Facebook
+1407,35,F,Midwest,2024-05-26,Instagram
+1408,22,M,Midwest,2024-03-07,Instagram
+1409,46,M,Midwest,2024-04-12,LinkedIn
+1410,56,M,North,2024-03-13,Referral
+1411,51,F,East,2024-04-25,Instagram
+1412,40,F,Midwest,2024-05-12,Referral
+1413,22,M,East,2024-03-07,LinkedIn
+1414,47,F,Midwest,2024-05-18,Referral
+1415,23,M,West,2024-04-30,Referral
+1416,21,M,Midwest,2024-04-03,Referral
+1417,46,M,South,2024-05-08,Instagram
+1418,40,F,North,2024-03-31,Google Ads
+1419,23,M,West,2024-04-01,Facebook
+1420,49,M,West,2024-03-03,Referral
+1421,59,M,South,2024-01-29,Referral
+1422,35,F,Midwest,2024-01-12,Referral
+1423,32,M,North,2024-03-17,Google Ads
+1424,57,F,West,2024-02-10,LinkedIn
+1425,49,M,North,2024-05-09,Instagram
+1426,26,F,West,2024-02-06,Google Ads
+1427,54,M,Midwest,2024-06-21,Referral
+1428,27,M,West,2024-06-24,Google Ads
+1429,37,F,West,2024-01-24,Google Ads
+1430,23,F,East,2024-04-08,Google Ads
+1431,20,M,Midwest,2024-05-29,LinkedIn
+1432,59,F,South,2024-04-09,Facebook
+1433,28,M,South,2024-05-18,Instagram
+1434,34,M,Midwest,2024-02-27,LinkedIn
+1435,49,M,South,2024-06-22,LinkedIn
+1436,21,F,Midwest,2024-01-29,Facebook
+1437,21,M,South,2024-06-11,LinkedIn
+1438,34,F,East,2024-05-22,Google Ads
+1439,58,M,South,2024-02-29,Google Ads
+1440,36,F,West,2024-04-04,Referral
+1441,22,F,Midwest,2024-02-11,LinkedIn
+1442,49,M,North,2024-02-12,Referral
+1443,39,F,North,2024-03-14,Instagram
+1444,23,M,Midwest,2024-06-25,Google Ads
+1445,52,M,East,2024-06-08,Instagram
+1446,39,M,South,2024-03-04,Facebook
+1447,18,M,East,2024-01-02,Google Ads
+1448,37,M,North,2024-05-31,Instagram
+1449,39,F,Midwest,2024-03-06,Facebook
+1450,28,M,Midwest,2024-06-14,Instagram
+1451,30,F,East,2024-01-31,Facebook
+1452,59,F,East,2024-04-24,Facebook
+1453,20,M,South,2024-01-26,Google Ads
+1454,26,F,West,2024-01-29,Referral
+1455,29,M,West,2024-03-18,Facebook
+1456,40,F,South,2024-01-25,Facebook
+1457,31,F,West,2024-02-17,Google Ads
+1458,50,F,North,2024-03-05,Referral
+1459,35,M,West,2024-03-07,LinkedIn
+1460,58,F,South,2024-03-30,LinkedIn
+1461,26,M,West,2024-05-25,Referral
+1462,40,F,Midwest,2024-05-16,Instagram
+1463,27,F,East,2024-02-07,Google Ads
+1464,36,F,North,2024-03-27,Referral
+1465,22,F,Midwest,2024-05-28,LinkedIn
+1466,40,M,Midwest,2024-03-05,Facebook
+1467,47,M,South,2024-05-28,LinkedIn
+1468,42,F,East,2024-01-27,Facebook
+1469,45,F,East,2024-04-15,Google Ads
+1470,51,M,North,2024-05-02,Facebook
+1471,42,M,South,2024-02-13,Referral
+1472,27,M,North,2024-04-09,Facebook
+1473,31,M,West,2024-01-28,Instagram
+1474,59,F,Midwest,2024-06-21,Referral
+1475,47,F,North,2024-01-17,Google Ads
+1476,58,M,Midwest,2024-05-06,Referral
+1477,42,M,South,2024-05-02,Instagram
+1478,31,M,West,2024-06-16,Google Ads
+1479,52,M,South,2024-05-10,LinkedIn
+1480,51,M,West,2024-03-16,Instagram
+1481,27,M,West,2024-02-15,Google Ads
+1482,52,F,Midwest,2024-06-06,Facebook
+1483,28,F,South,2024-03-09,Referral
+1484,28,F,South,2024-05-16,Google Ads
+1485,38,M,North,2024-03-25,Referral
+1486,38,M,South,2024-01-11,Facebook
+1487,39,M,North,2024-03-09,Google Ads
+1488,24,F,East,2024-04-08,LinkedIn
+1489,34,M,East,2024-03-31,Instagram
+1490,19,M,East,2024-06-07,Google Ads
+1491,29,F,South,2024-06-09,Facebook
+1492,59,M,South,2024-06-15,Google Ads
+1493,35,F,North,2024-04-03,Referral
+1494,28,F,West,2024-06-22,Google Ads
+1495,33,M,North,2024-06-13,LinkedIn
+1496,35,F,East,2024-04-24,Google Ads
+1497,52,M,North,2024-01-31,Instagram
+1498,43,F,West,2024-01-11,Google Ads
+1499,33,M,South,2024-03-27,Referral
+1500,23,F,North,2024-04-30,Google Ads
+1501,59,M,East,2024-05-09,LinkedIn
+1502,29,F,East,2024-04-14,Facebook
+1503,30,F,South,2024-01-27,Google Ads
+1504,21,F,North,2024-01-02,Google Ads
+1505,56,M,West,2024-04-12,Instagram
+1506,19,M,South,2024-04-10,LinkedIn
+1507,43,F,North,2024-01-21,Facebook
+1508,44,M,Midwest,2024-02-27,Referral
+1509,44,F,East,2024-05-12,Google Ads
+1510,32,M,West,2024-06-28,Facebook
+1511,25,F,West,2024-06-21,Referral
+1512,24,M,West,2024-03-25,LinkedIn
+1513,57,F,East,2024-04-02,LinkedIn
+1514,29,F,North,2024-01-20,Facebook
+1515,30,F,South,2024-03-01,Referral
+1516,34,F,North,2024-02-07,LinkedIn
+1517,34,M,South,2024-05-27,Facebook
+1518,53,F,West,2024-01-25,LinkedIn
+1519,38,M,North,2024-05-09,LinkedIn
+1520,25,M,West,2024-04-30,LinkedIn
+1521,22,F,Midwest,2024-06-08,Instagram
+1522,43,M,West,2024-01-26,Referral
+1523,33,M,West,2024-06-17,Facebook
+1524,53,M,South,2024-03-07,Facebook
+1525,45,F,Midwest,2024-01-01,Referral
+1526,46,M,West,2024-02-20,Referral
+1527,29,M,West,2024-01-05,Referral
+1528,54,F,Midwest,2024-01-13,Referral
+1529,47,F,Midwest,2024-05-26,Google Ads
+1530,40,M,North,2024-05-19,Facebook
+1531,33,F,South,2024-02-17,Google Ads
+1532,31,M,Midwest,2024-06-01,LinkedIn
+1533,27,M,Midwest,2024-02-26,LinkedIn
+1534,24,M,East,2024-04-24,Facebook
+1535,54,F,Midwest,2024-02-04,LinkedIn
+1536,46,M,South,2024-03-16,Referral
+1537,20,F,West,2024-04-03,Google Ads
+1538,32,F,West,2024-01-05,Referral
+1539,53,M,West,2024-01-22,LinkedIn
+1540,36,F,West,2024-04-12,Google Ads
+1541,30,F,East,2024-06-23,Referral
+1542,59,F,Midwest,2024-05-10,Facebook
+1543,38,F,West,2024-05-03,Referral
+1544,54,F,North,2024-02-22,LinkedIn
+1545,44,M,West,2024-06-07,Google Ads
+1546,46,F,Midwest,2024-03-09,Facebook
+1547,37,M,West,2024-04-13,Google Ads
+1548,42,M,East,2024-06-09,Facebook
+1549,23,M,South,2024-06-26,Google Ads
+1550,53,M,South,2024-01-16,LinkedIn
+1551,19,M,Midwest,2024-04-25,Facebook
+1552,39,M,South,2024-03-16,Instagram
+1553,49,F,South,2024-04-18,Google Ads
+1554,33,F,North,2024-02-08,Google Ads
+1555,35,F,Midwest,2024-03-29,Referral
+1556,22,M,Midwest,2024-06-22,Facebook
+1557,53,F,South,2024-04-21,Instagram
+1558,47,F,South,2024-02-16,LinkedIn
+1559,36,F,South,2024-06-20,Referral
+1560,40,M,East,2024-05-16,Instagram
+1561,51,F,West,2024-05-07,Facebook
+1562,30,M,East,2024-06-26,Instagram
+1563,46,F,Midwest,2024-03-17,Google Ads
+1564,53,M,North,2024-01-15,Google Ads
+1565,39,M,West,2024-02-05,Referral
+1566,53,M,North,2024-03-03,Facebook
+1567,26,F,Midwest,2024-03-09,Facebook
+1568,56,F,Midwest,2024-06-17,Instagram
+1569,36,M,North,2024-03-14,Referral
+1570,55,F,North,2024-01-24,Facebook
+1571,23,M,North,2024-02-18,Google Ads
+1572,32,M,Midwest,2024-05-25,Instagram
+1573,37,F,South,2024-01-07,LinkedIn
+1574,26,F,North,2024-01-04,Google Ads
+1575,49,F,West,2024-03-30,Referral
+1576,21,M,Midwest,2024-02-29,Facebook
+1577,35,M,East,2024-02-24,Google Ads
+1578,22,F,East,2024-01-16,LinkedIn
+1579,37,M,West,2024-01-29,LinkedIn
+1580,40,F,South,2024-05-30,Referral
+1581,28,M,North,2024-01-14,Google Ads
+1582,54,F,Midwest,2024-03-19,Instagram
+1583,39,F,North,2024-06-25,Google Ads
+1584,21,M,Midwest,2024-02-02,LinkedIn
+1585,46,F,East,2024-06-01,Referral
+1586,51,F,North,2024-01-21,Referral
+1587,30,M,West,2024-05-24,Instagram
+1588,59,F,South,2024-01-23,Referral
+1589,26,M,West,2024-02-26,Referral
+1590,59,F,South,2024-05-21,Referral
+1591,48,M,North,2024-04-02,Referral
+1592,24,F,North,2024-01-20,Referral
+1593,21,F,South,2024-06-06,LinkedIn
+1594,36,F,East,2024-01-19,Google Ads
+1595,59,F,Midwest,2024-04-12,Facebook
+1596,47,M,West,2024-03-17,Referral
+1597,48,M,West,2024-05-30,Facebook
+1598,52,M,West,2024-02-02,Facebook
+1599,38,M,North,2024-01-18,LinkedIn
+1600,48,M,West,2024-03-13,Referral
+1601,36,M,Midwest,2024-06-09,Facebook
+1602,48,M,Midwest,2024-06-08,Referral
+1603,49,F,South,2024-01-17,Instagram
+1604,19,F,North,2024-01-19,Instagram
+1605,27,F,Midwest,2024-03-10,Instagram
+1606,19,F,East,2024-04-29,Facebook
+1607,19,M,North,2024-04-10,Instagram
+1608,41,M,North,2024-02-03,LinkedIn
+1609,34,M,Midwest,2024-03-24,LinkedIn
+1610,49,F,East,2024-06-01,Facebook
+1611,33,M,South,2024-03-14,Referral
+1612,33,F,Midwest,2024-03-28,Google Ads
+1613,56,M,East,2024-03-25,Referral
+1614,48,M,North,2024-01-11,Referral
+1615,41,M,East,2024-03-31,Referral
+1616,18,M,North,2024-05-23,Referral
+1617,28,F,Midwest,2024-05-06,Google Ads
+1618,38,F,Midwest,2024-04-22,Instagram
+1619,21,M,West,2024-03-20,Referral
+1620,24,F,West,2024-01-07,LinkedIn
+1621,43,M,West,2024-01-16,Facebook
+1622,29,M,Midwest,2024-01-16,Facebook
+1623,48,M,South,2024-06-16,LinkedIn
+1624,34,M,Midwest,2024-01-12,Referral
+1625,50,F,East,2024-02-04,Google Ads
+1626,28,M,Midwest,2024-01-21,Instagram
+1627,45,M,Midwest,2024-06-26,Facebook
+1628,49,F,North,2024-06-19,Instagram
+1629,18,M,North,2024-01-17,Google Ads
+1630,45,F,North,2024-02-01,Facebook
+1631,59,M,Midwest,2024-02-10,Instagram
+1632,24,M,South,2024-05-13,Google Ads
+1633,19,M,East,2024-01-27,Instagram
+1634,59,M,East,2024-05-27,Referral
+1635,41,M,South,2024-06-01,Google Ads
+1636,21,M,South,2024-03-06,Instagram
+1637,36,F,East,2024-05-16,Referral
+1638,43,M,West,2024-04-01,Referral
+1639,28,F,North,2024-03-01,Google Ads
+1640,57,F,North,2024-06-14,LinkedIn
+1641,28,M,East,2024-01-03,Facebook
+1642,20,F,South,2024-04-12,Google Ads
+1643,29,M,West,2024-02-24,Referral
+1644,20,F,East,2024-01-01,Referral
+1645,59,M,North,2024-04-10,Google Ads
+1646,44,F,Midwest,2024-02-14,LinkedIn
+1647,19,F,South,2024-06-23,Facebook
+1648,33,M,Midwest,2024-01-26,Instagram
+1649,19,F,East,2024-04-30,Google Ads
+1650,47,M,North,2024-05-21,Facebook
+1651,37,M,West,2024-02-15,Facebook
+1652,55,M,Midwest,2024-05-01,Referral
+1653,45,M,West,2024-01-31,Instagram
+1654,42,M,North,2024-02-28,Google Ads
+1655,49,F,Midwest,2024-01-29,Referral
+1656,27,F,West,2024-04-15,Referral
+1657,59,F,West,2024-01-17,LinkedIn
+1658,57,M,Midwest,2024-05-21,Facebook
+1659,50,F,North,2024-06-12,Google Ads
+1660,30,F,West,2024-01-24,Google Ads
+1661,58,F,East,2024-04-18,Google Ads
+1662,59,F,Midwest,2024-03-31,Referral
+1663,54,F,South,2024-01-25,LinkedIn
+1664,33,M,South,2024-02-01,Instagram
+1665,39,M,North,2024-04-25,Referral
+1666,37,F,East,2024-03-22,Instagram
+1667,44,M,West,2024-04-19,LinkedIn
+1668,58,M,South,2024-05-25,Facebook
+1669,33,F,North,2024-02-06,Google Ads
+1670,51,F,East,2024-01-26,Instagram
+1671,49,M,East,2024-05-16,Referral
+1672,43,F,North,2024-03-04,Instagram
+1673,42,M,North,2024-03-12,Facebook
+1674,19,M,West,2024-05-27,Google Ads
+1675,29,F,North,2024-04-15,Instagram
+1676,57,M,West,2024-03-26,Facebook
+1677,26,M,West,2024-06-06,Referral
+1678,29,M,Midwest,2024-02-22,LinkedIn
+1679,43,F,East,2024-04-01,Referral
+1680,26,F,East,2024-04-08,Google Ads
+1681,27,F,East,2024-01-11,Referral
+1682,49,F,Midwest,2024-01-31,Referral
+1683,51,M,West,2024-06-25,Referral
+1684,37,F,West,2024-04-09,Referral
+1685,56,F,North,2024-03-27,Google Ads
+1686,19,F,Midwest,2024-05-26,Facebook
+1687,18,F,North,2024-05-19,Instagram
+1688,53,M,Midwest,2024-01-15,LinkedIn
+1689,41,M,North,2024-06-07,Instagram
+1690,44,M,South,2024-06-19,Instagram
+1691,19,F,East,2024-04-10,LinkedIn
+1692,48,F,East,2024-06-13,Google Ads
+1693,31,M,West,2024-01-29,LinkedIn
+1694,19,F,South,2024-04-23,Google Ads
+1695,46,F,East,2024-04-16,Instagram
+1696,32,M,West,2024-06-02,Google Ads
+1697,29,M,South,2024-04-17,Facebook
+1698,54,F,East,2024-05-09,LinkedIn
+1699,45,F,North,2024-03-24,Facebook
+1700,37,F,Midwest,2024-01-15,Instagram
+1701,56,M,South,2024-05-11,LinkedIn
+1702,41,M,West,2024-02-19,Instagram
+1703,38,M,South,2024-06-14,Facebook
+1704,27,M,West,2024-01-23,Instagram
+1705,31,F,South,2024-02-28,LinkedIn
+1706,54,M,West,2024-03-30,LinkedIn
+1707,35,M,East,2024-04-24,Instagram
+1708,41,F,North,2024-03-15,LinkedIn
+1709,31,F,East,2024-06-04,LinkedIn
+1710,51,F,North,2024-05-02,Instagram
+1711,29,M,East,2024-05-15,Facebook
+1712,39,F,East,2024-06-05,LinkedIn
+1713,23,F,South,2024-05-18,LinkedIn
+1714,53,M,Midwest,2024-01-18,LinkedIn
+1715,53,M,West,2024-02-19,LinkedIn
+1716,39,F,West,2024-05-21,Instagram
+1717,31,M,West,2024-04-27,Facebook
+1718,33,F,North,2024-05-16,Facebook
+1719,53,F,West,2024-05-18,Google Ads
+1720,42,M,West,2024-04-17,LinkedIn
+1721,49,F,South,2024-03-07,LinkedIn
+1722,50,M,East,2024-06-15,Google Ads
+1723,53,M,West,2024-03-18,Facebook
+1724,37,M,Midwest,2024-06-04,Referral
+1725,35,F,West,2024-03-15,Referral
+1726,55,M,North,2024-02-08,Facebook
+1727,20,M,North,2024-01-25,LinkedIn
+1728,40,F,North,2024-01-21,Referral
+1729,49,F,West,2024-05-17,Instagram
+1730,33,F,South,2024-06-19,Instagram
+1731,22,F,Midwest,2024-01-15,Google Ads
+1732,21,M,West,2024-02-17,Facebook
+1733,38,M,South,2024-03-26,Facebook
+1734,57,M,South,2024-05-28,Referral
+1735,31,F,West,2024-04-25,LinkedIn
+1736,56,F,West,2024-02-19,Facebook
+1737,48,M,South,2024-05-30,Referral
+1738,31,F,South,2024-05-20,Referral
+1739,23,F,South,2024-03-09,Facebook
+1740,29,M,West,2024-01-04,Referral
+1741,33,M,South,2024-03-18,Google Ads
+1742,34,F,North,2024-01-09,Google Ads
+1743,40,F,West,2024-04-30,Facebook
+1744,31,F,North,2024-04-24,LinkedIn
+1745,24,M,East,2024-06-11,Google Ads
+1746,49,M,West,2024-04-10,Google Ads
+1747,32,M,East,2024-05-28,Facebook
+1748,34,M,South,2024-05-25,Instagram
+1749,58,M,South,2024-04-06,Referral
+1750,51,F,Midwest,2024-03-21,Google Ads
+1751,22,F,South,2024-02-12,Instagram
+1752,44,F,East,2024-04-04,LinkedIn
+1753,40,M,South,2024-01-06,Instagram
+1754,57,M,West,2024-03-07,Facebook
+1755,31,M,South,2024-05-19,LinkedIn
+1756,32,F,Midwest,2024-04-09,LinkedIn
+1757,50,M,South,2024-01-12,Instagram
+1758,48,M,East,2024-03-06,Facebook
+1759,52,F,East,2024-01-02,Google Ads
+1760,34,M,South,2024-05-22,Instagram
+1761,45,F,East,2024-05-30,Google Ads
+1762,36,M,East,2024-06-05,Instagram
+1763,40,M,Midwest,2024-03-21,Google Ads
+1764,49,F,West,2024-05-14,Instagram
+1765,57,F,Midwest,2024-06-04,LinkedIn
+1766,30,F,North,2024-05-21,Referral
+1767,37,F,Midwest,2024-06-20,LinkedIn
+1768,52,F,South,2024-06-06,Google Ads
+1769,22,F,West,2024-06-08,Facebook
+1770,26,M,South,2024-03-10,LinkedIn
+1771,46,M,North,2024-04-24,Referral
+1772,23,F,West,2024-03-28,Google Ads
+1773,42,M,East,2024-01-06,LinkedIn
+1774,48,F,Midwest,2024-01-27,Instagram
+1775,39,M,South,2024-03-22,Facebook
+1776,19,F,North,2024-03-28,Google Ads
+1777,22,M,East,2024-04-29,LinkedIn
+1778,44,M,Midwest,2024-01-24,Google Ads
+1779,42,M,East,2024-04-11,Instagram
+1780,25,M,Midwest,2024-02-03,Referral
+1781,18,M,West,2024-06-16,LinkedIn
+1782,37,F,East,2024-02-16,Google Ads
+1783,40,F,East,2024-01-24,Google Ads
+1784,49,F,East,2024-03-05,Google Ads
+1785,28,M,West,2024-01-18,Referral
+1786,56,F,North,2024-02-13,Google Ads
+1787,41,M,Midwest,2024-03-16,Facebook
+1788,28,M,East,2024-02-26,Facebook
+1789,46,M,West,2024-04-16,Google Ads
+1790,43,F,North,2024-06-04,Facebook
+1791,33,M,Midwest,2024-05-03,LinkedIn
+1792,52,F,West,2024-05-30,Facebook
+1793,37,F,Midwest,2024-06-10,Google Ads
+1794,20,M,East,2024-05-18,Instagram
+1795,18,M,North,2024-06-11,LinkedIn
+1796,18,F,West,2024-04-25,Referral
+1797,34,F,North,2024-04-02,Google Ads
+1798,19,F,East,2024-02-11,Referral
+1799,46,F,North,2024-01-28,Instagram
+1800,37,F,North,2024-05-02,Referral
+1801,23,F,South,2024-01-24,Google Ads
+1802,25,M,North,2024-05-15,Google Ads
+1803,46,F,Midwest,2024-04-15,Instagram
+1804,50,F,West,2024-04-27,Google Ads
+1805,20,F,South,2024-02-22,Instagram
+1806,52,F,West,2024-05-11,Instagram
+1807,22,M,West,2024-04-09,Google Ads
+1808,44,M,East,2024-01-05,Facebook
+1809,29,F,East,2024-02-18,Instagram
+1810,37,F,South,2024-04-07,Google Ads
+1811,37,F,East,2024-01-30,Facebook
+1812,26,M,East,2024-03-12,Instagram
+1813,56,M,East,2024-04-12,Facebook
+1814,21,M,West,2024-03-03,LinkedIn
+1815,36,M,South,2024-06-23,LinkedIn
+1816,55,M,West,2024-01-26,Facebook
+1817,44,M,Midwest,2024-02-06,Instagram
+1818,30,F,West,2024-01-07,Google Ads
+1819,30,M,Midwest,2024-05-06,Referral
+1820,39,M,North,2024-06-16,Google Ads
+1821,45,F,North,2024-04-01,Referral
+1822,39,M,Midwest,2024-06-15,Referral
+1823,36,F,Midwest,2024-04-12,Instagram
+1824,25,M,West,2024-02-22,Facebook
+1825,25,F,Midwest,2024-05-11,Google Ads
+1826,59,F,South,2024-04-17,Facebook
+1827,43,F,North,2024-04-21,LinkedIn
+1828,43,F,North,2024-06-01,Instagram
+1829,40,F,Midwest,2024-01-07,Instagram
+1830,30,M,East,2024-06-04,LinkedIn
+1831,45,M,East,2024-03-07,Google Ads
+1832,26,F,Midwest,2024-04-17,LinkedIn
+1833,37,F,South,2024-04-20,Google Ads
+1834,36,F,East,2024-05-27,Referral
+1835,56,M,Midwest,2024-03-23,Instagram
+1836,29,F,South,2024-05-03,Google Ads
+1837,32,F,South,2024-05-18,Facebook
+1838,48,F,West,2024-04-13,Facebook
+1839,31,F,South,2024-03-07,Instagram
+1840,28,M,East,2024-01-07,LinkedIn
+1841,43,F,East,2024-05-30,LinkedIn
+1842,59,F,Midwest,2024-04-19,Google Ads
+1843,44,M,Midwest,2024-02-03,LinkedIn
+1844,28,F,South,2024-04-15,Instagram
+1845,55,F,North,2024-05-26,Google Ads
+1846,51,M,West,2024-02-27,Referral
+1847,36,M,North,2024-01-09,LinkedIn
+1848,23,M,South,2024-02-17,LinkedIn
+1849,55,F,South,2024-04-24,Google Ads
+1850,59,F,North,2024-02-10,Facebook
+1851,45,M,West,2024-02-17,LinkedIn
+1852,18,M,North,2024-06-21,Instagram
+1853,52,M,Midwest,2024-01-25,LinkedIn
+1854,57,F,East,2024-04-25,Referral
+1855,25,F,Midwest,2024-03-18,LinkedIn
+1856,24,M,East,2024-04-17,Facebook
+1857,28,F,South,2024-01-25,LinkedIn
+1858,56,M,West,2024-05-26,Google Ads
+1859,21,F,North,2024-02-08,LinkedIn
+1860,42,F,West,2024-04-28,Facebook
+1861,29,F,North,2024-03-19,Google Ads
+1862,43,F,Midwest,2024-03-20,Instagram
+1863,55,M,Midwest,2024-01-27,Google Ads
+1864,29,F,North,2024-04-13,Referral
+1865,54,F,West,2024-03-14,Google Ads
+1866,41,M,North,2024-03-08,Instagram
+1867,33,F,South,2024-05-26,LinkedIn
+1868,30,M,Midwest,2024-01-28,Google Ads
+1869,42,M,South,2024-05-02,Google Ads
+1870,21,F,Midwest,2024-06-09,Google Ads
+1871,28,F,Midwest,2024-05-17,Google Ads
+1872,49,M,East,2024-03-23,Instagram
+1873,24,M,South,2024-01-30,Facebook
+1874,28,M,South,2024-01-22,Facebook
+1875,45,F,East,2024-01-03,Google Ads
+1876,58,M,West,2024-04-10,Instagram
+1877,40,M,South,2024-04-14,Instagram
+1878,40,M,North,2024-06-24,Google Ads
+1879,45,F,East,2024-01-02,Referral
+1880,43,M,South,2024-02-23,Google Ads
+1881,42,F,West,2024-01-06,Referral
+1882,46,F,South,2024-04-16,Google Ads
+1883,36,M,Midwest,2024-06-16,Referral
+1884,50,F,North,2024-05-02,Referral
+1885,53,M,East,2024-01-02,Google Ads
+1886,31,F,Midwest,2024-04-20,Referral
+1887,31,F,West,2024-01-02,LinkedIn
+1888,52,M,Midwest,2024-04-02,Facebook
+1889,47,M,Midwest,2024-04-10,Instagram
+1890,45,M,West,2024-04-06,Referral
+1891,34,F,Midwest,2024-04-20,Referral
+1892,20,F,East,2024-01-06,Instagram
+1893,33,M,South,2024-05-06,Referral
+1894,47,M,Midwest,2024-04-13,Instagram
+1895,46,F,East,2024-05-26,Google Ads
+1896,32,F,South,2024-06-03,LinkedIn
+1897,42,F,South,2024-01-01,LinkedIn
+1898,55,M,Midwest,2024-02-02,Facebook
+1899,59,F,East,2024-02-09,Referral
+1900,55,M,Midwest,2024-02-01,Facebook
+1901,40,F,West,2024-01-17,Google Ads
+1902,42,F,South,2024-05-05,LinkedIn
+1903,59,M,Midwest,2024-01-08,Google Ads
+1904,24,M,South,2024-02-26,Google Ads
+1905,39,M,East,2024-02-11,Referral
+1906,34,F,North,2024-04-07,Google Ads
+1907,35,F,Midwest,2024-05-16,LinkedIn
+1908,58,F,Midwest,2024-04-29,Facebook
+1909,27,M,South,2024-03-27,LinkedIn
+1910,27,F,East,2024-06-11,Referral
+1911,24,M,West,2024-02-23,LinkedIn
+1912,55,M,East,2024-03-24,Instagram
+1913,44,M,Midwest,2024-01-25,Facebook
+1914,50,F,West,2024-03-07,Instagram
+1915,18,F,East,2024-06-22,Instagram
+1916,51,M,North,2024-05-31,Referral
+1917,21,F,South,2024-02-15,Google Ads
+1918,34,M,East,2024-01-22,Instagram
+1919,21,M,East,2024-05-18,LinkedIn
+1920,43,F,North,2024-06-24,Google Ads
+1921,21,M,Midwest,2024-01-08,LinkedIn
+1922,18,M,South,2024-02-08,LinkedIn
+1923,24,F,East,2024-06-11,Google Ads
+1924,47,M,West,2024-02-18,Google Ads
+1925,26,M,East,2024-02-15,LinkedIn
+1926,52,M,South,2024-02-07,Referral
+1927,25,M,East,2024-05-15,Facebook
+1928,41,M,North,2024-02-23,Facebook
+1929,36,M,East,2024-06-13,Referral
+1930,53,M,East,2024-04-01,Google Ads
+1931,44,F,West,2024-02-09,LinkedIn
+1932,49,F,North,2024-02-03,Facebook
+1933,31,M,North,2024-04-05,LinkedIn
+1934,35,M,East,2024-03-19,Referral
+1935,45,F,West,2024-05-06,LinkedIn
+1936,46,F,East,2024-01-17,Referral
+1937,33,F,East,2024-06-09,Google Ads
+1938,52,F,South,2024-06-23,Referral
+1939,48,F,South,2024-04-19,Referral
+1940,21,M,West,2024-02-21,Facebook
+1941,54,F,Midwest,2024-04-27,LinkedIn
+1942,34,F,South,2024-01-09,Facebook
+1943,56,F,Midwest,2024-02-02,Instagram
+1944,43,M,North,2024-04-22,Referral
+1945,56,M,South,2024-05-28,Instagram
+1946,58,M,South,2024-03-25,Facebook
+1947,21,M,West,2024-01-10,LinkedIn
+1948,47,M,Midwest,2024-01-06,Facebook
+1949,47,M,South,2024-04-24,LinkedIn
+1950,39,F,South,2024-04-30,LinkedIn
+1951,28,M,West,2024-05-20,Google Ads
+1952,19,M,West,2024-03-05,Referral
+1953,29,F,Midwest,2024-01-20,Facebook
+1954,47,M,North,2024-02-26,LinkedIn
+1955,53,F,North,2024-02-15,Facebook
+1956,35,F,East,2024-05-15,Facebook
+1957,43,M,South,2024-01-10,LinkedIn
+1958,24,F,Midwest,2024-04-22,Instagram
+1959,18,F,South,2024-05-18,Referral
+1960,43,F,Midwest,2024-01-12,Referral
+1961,40,F,Midwest,2024-05-17,Google Ads
+1962,43,M,Midwest,2024-06-01,Google Ads
+1963,23,F,South,2024-06-25,Google Ads
+1964,23,M,West,2024-06-25,Referral
+1965,25,F,South,2024-01-11,Instagram
+1966,41,F,Midwest,2024-04-27,Referral
+1967,39,F,East,2024-06-12,Referral
+1968,36,M,North,2024-02-08,Referral
+1969,54,M,Midwest,2024-02-22,Referral
+1970,35,M,East,2024-02-25,Instagram
+1971,48,F,West,2024-04-13,Google Ads
+1972,54,F,Midwest,2024-05-08,Facebook
+1973,47,F,East,2024-02-25,Google Ads
+1974,59,F,Midwest,2024-04-27,Google Ads
+1975,50,M,South,2024-05-11,Facebook
+1976,27,F,East,2024-01-30,Referral
+1977,54,M,South,2024-01-12,Instagram
+1978,29,F,South,2024-02-04,Instagram
+1979,47,M,East,2024-03-17,Google Ads
+1980,44,M,North,2024-06-28,Facebook
+1981,56,F,East,2024-06-07,LinkedIn
+1982,26,F,North,2024-04-11,Referral
+1983,38,M,Midwest,2024-03-27,Google Ads
+1984,29,F,Midwest,2024-02-21,Instagram
+1985,46,F,East,2024-03-20,Facebook
+1986,50,M,Midwest,2024-05-14,Facebook
+1987,32,M,West,2024-01-22,Google Ads
+1988,19,M,South,2024-03-15,LinkedIn
+1989,56,M,South,2024-02-27,Instagram
+1990,35,F,North,2024-04-02,Google Ads
+1991,20,M,Midwest,2024-04-12,LinkedIn
+1992,24,M,North,2024-05-19,Facebook
+1993,35,M,South,2024-01-07,Referral
+1994,55,F,South,2024-05-07,Instagram
+1995,54,M,Midwest,2024-02-24,Instagram
+1996,50,F,West,2024-04-15,LinkedIn
+1997,48,M,West,2024-03-02,Google Ads
+1998,28,M,Midwest,2024-03-30,Facebook
+1999,21,F,Midwest,2024-04-07,LinkedIn
+2000,35,M,North,2024-03-17,Referral
