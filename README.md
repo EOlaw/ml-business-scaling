@@ -2,14 +2,14 @@
 
 ## 📘 Overview
 This project simulates a **real-world data science job scenario** where a Machine Learning model is used to **analyze customer data, predict conversions, and provide insights to scale a business**.  
-It is based on a fictional consulting company, **InsightSerenity Analytics**, which provides IT, data science, and life literacy consulting services.
+It is based on a fictional consulting company, **Meridian Analytics**, which provides IT, data science, and life literacy consulting services.
 
 The simulation walks through every step of the ML workflow — from **data collection** and **EDA** to **modeling** and **business recommendations**.
 
 ---
 
 ## 🏢 Company Background
-**InsightSerenity Analytics** is a data-driven consulting firm founded in 2023. The company helps organizations make informed decisions through analytics and machine learning, while integrating values of purpose, stewardship, and growth.
+**Meridian Analytics** is a data-driven consulting firm founded in 2023. The company helps organizations make informed decisions through analytics and machine learning, while integrating values of purpose, stewardship, and growth.
 
 They recently launched an online consultation platform and aim to:
 - Increase **conversion rates** from free to paid consultations.  
